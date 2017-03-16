@@ -17,6 +17,7 @@ node() {
   }
 
   stage('deploy') {
+    sh "echo lol"
   }
 
   stage('notify') {
