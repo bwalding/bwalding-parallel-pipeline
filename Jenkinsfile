@@ -1,3 +1,4 @@
+//A comment
 node() {
 
   stage('checkout') {
